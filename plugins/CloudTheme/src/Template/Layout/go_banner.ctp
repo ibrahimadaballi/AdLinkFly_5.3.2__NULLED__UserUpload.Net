@@ -7,7 +7,7 @@
     <meta property="og:image" content="<?= h($this->fetch('og_image')); ?>"/>
     <?= $this->element('front_head'); ?>
 </head>
-<body class="captcha-page">
+<body class="banner-page">
 <?= get_option('after_body_tag_code'); ?>
 
 <!-- Navigation -->
@@ -71,6 +71,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
+            <?= $this->Flash->render() ?>
             <?= $this->fetch('content') ?>
         </div>
     </div>
