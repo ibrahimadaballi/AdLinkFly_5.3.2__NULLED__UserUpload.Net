@@ -1,4 +1,7 @@
 # AdLinkFly
 Instagram kullanıcı taklit hesap çalma yöntemidir
-Not: Kulanım şekli ve dikat edilmesi gereken hususlar 
-1 mavi tikli ve ör 1M+ üst yüksek takipçili hesapları Çalmanızı önermiyorum 
+Nasıl Kullanılır:- 
+1:- Dosyayı İndirin
+2:- Mağdur Kullanıcı Adını Girin
+3:- Hack'e tıklayın
+4:- Keyfini çıkarın.  Mavi tik Ünlünün Hesabını Hacklemeyin
